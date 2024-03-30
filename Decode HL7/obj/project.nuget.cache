@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "iKpMRRuZLMIr4K2fRAWe+Gor98bwRZAi6hxyuYm8k8qxo+lSQ2qX5qI3P8VLAOrjP33xSE09C/JXU2j+8L/qzA==",
+  "success": true,
+  "projectFilePath": "E:\\Tunz\\C#\\Decode HL7\\Decode HL7\\Decode HL7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\nhapi\\3.2.2\\nhapi.3.2.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\nhapi.base\\3.2.0\\nhapi.base.3.2.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\nhapi.model.v21\\3.2.0\\nhapi.model.v21.3.2.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\nhapi.model.v22\\3.2.0\\nhapi.model.v22.3.2.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\nhapi.model.v23\\3.2.0\\nhapi.model.v23.3.2.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\nhapi.model.v231\\3.2.0\\nhapi.model.v231.3.2.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\nhapi.model.v24\\3.2.0\\nhapi.model.v24.3.2.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\nhapi.model.v25\\3.2.0\\nhapi.model.v25.3.2.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\nhapi.model.v251\\3.2.0\\nhapi.model.v251.3.2.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\nhapi.model.v26\\3.2.0\\nhapi.model.v26.3.2.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\nhapi.model.v27\\3.2.0\\nhapi.model.v27.3.2.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\nhapi.model.v271\\3.2.0\\nhapi.model.v271.3.2.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\nhapi.model.v28\\3.2.0\\nhapi.model.v28.3.2.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\nhapi.model.v281\\3.2.0\\nhapi.model.v281.3.2.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.security.cryptography.protecteddata\\5.0.0\\system.security.cryptography.protecteddata.5.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.security.permissions\\5.0.0\\system.security.permissions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
